@@ -85,7 +85,7 @@ ul.navigation li:hover a {
 }
 
 .othersIcon {
-	width: 8%;
+	width: 10%;
 	height: 94px;
 	float: left;
 	display: flex;
@@ -94,11 +94,12 @@ ul.navigation li:hover a {
 }
 
 .othersIcon a {
-	font-size: 25px;
+	font-size: 20px;
 	cursor: pointer;
 	color: #fff;
 	margin: 12px;
 	transition: 1s important;
+    text-decoration: none;
 }
 
 .othersIcon a:hover {
